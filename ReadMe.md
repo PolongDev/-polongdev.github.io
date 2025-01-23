@@ -1,8 +1,6 @@
 ### Parallax Portfolio
-#### MPOP Reverse II [Ryann Kim Sesgundo]
+#### PolongDev [Kenneth G. Perez]
 
-
-> Consumed time: [![wakatime](https://wakatime.com/badge/user/8ef6ba9a-e605-4488-8da5-581413894876/project/54b6daa5-f05d-4980-9f00-39ddce934d3f.svg)](https://wakatime.com/badge/user/8ef6ba9a-e605-4488-8da5-581413894876/project/54b6daa5-f05d-4980-9f00-39ddce934d3f)
 
 ---
 ### Introduction
